@@ -1,12 +1,12 @@
 # Metadata
-title: "SirRandoo's Purchase List"
+title: "Pupkowe Emporium Przedmiotów"
 favicon: assets/img/favicon.png
-description: A custom version of Toolkit's item list to support all the latest features of Utils.
+description: Chcesz skazac Pupka na cierpienie? A moze chcesz mu kupic kotki? Wszystko mozesz zrobic to tutaj.
 
 baseurl: '/itemlist' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ''
-github_username: 'sirrandoo'
+twitter_username: 'xvolpiin'
+github_username: 'Volpiin'
 
 # Item list settings
 #
