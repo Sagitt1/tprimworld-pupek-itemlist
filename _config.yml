@@ -1,9 +1,9 @@
 # Metadata
 title: "TEST"
 favicon: assets/img/favicon.png
-description: Lorem kurwa ipsum.
+description: ItemList.
 
-baseurl: '/tprimworld-volpin-itemlist' # the subpath of your site, e.g. /blog
+baseurl: '/tprimworld-pupek-itemlist' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: '@xVolpiin'
 github_username: 'Volpiin'
